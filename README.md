@@ -1,1 +1,3 @@
-# Portfolio_risk_analysis
+# Portfolio Risk Analysis
+
+EE-551 WS - Pyhton course final project
